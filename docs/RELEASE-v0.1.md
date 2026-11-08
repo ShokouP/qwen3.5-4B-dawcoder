@@ -1,6 +1,6 @@
 # DAWcoder 4B v0.1：把音乐制作意图翻译成 DAW 参数（三代模型）
 
-[![GitHub stars](https://img.shields.io/github/stars/Shokou1/dawcoder?style=social)](https://github.com/Shokou1/dawcoder)
+[![GitHub stars](https://img.shields.io/github/stars/ShokouP/dawcoder?style=social)](https://github.com/ShokouP/dawcoder)
 [![Hugging Face](https://img.shields.io/badge/HF-dawcoder-yellow)](https://huggingface.co/Shokou1/dawcoder)
 
 如果这个项目对你有用，欢迎给仓库点个 Star，让更多做音乐 AI / Agent 的人找到它。
@@ -59,7 +59,7 @@ ollama run dawcoder-grpo-v3
 
 ## 相关仓库
 
-- 训练与评测：[dawcoder-datasets](https://github.com/Shokou1/dawcoder-datasets)
+- 训练与评测：[dawcoder-datasets](https://github.com/ShokouP/dawcoder-datasets)
 - 文本语料：[open-music-production-corpus](https://github.com/ShokouP/open-music-production-corpus)
 - 工程/符号数据：[open-music-engineering-data](https://github.com/ShokouP/open-music-engineering-data)
 - DAW MCP 工具：[daw-mcp-server](https://github.com/ShokouP/daw-mcp-server)
