@@ -18,10 +18,10 @@ library_name: transformers
 pipeline_tag: text-generation
 ---
 
-# DAWcoder-4B：Qwen3.5-4B 基座 · 4B 参数 · GGUF Q4_K_M · Ollama 开箱即用（preview / sft-v2 / grpo-v3）
+# qwen3.5-4B-dawcoder：Qwen3.5-4B 基座 · 4B 参数 · GGUF Q4_K_M · Ollama 开箱即用（preview / sft-v2 / grpo-v3）
 
-[![GitHub stars](https://img.shields.io/github/stars/ShokouP/dawcoder?style=social)](https://github.com/ShokouP/dawcoder)
-[![HF Model](https://img.shields.io/badge/HuggingFace-Shokou1%2Fdawcoder-yellow)](https://huggingface.co/Shokou1/dawcoder)
+[![GitHub stars](https://img.shields.io/github/stars/ShokouP/qwen3.5-4B-dawcoder?style=social)](https://github.com/ShokouP/qwen3.5-4B-dawcoder)
+[![HF Model](https://img.shields.io/badge/HuggingFace-Shokou1%2Fdawcoder-yellow)](https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder)
 [![License](https://img.shields.io/badge/license-Apache--2.0-lightgrey)](LICENSE)
 
 **4B 参数 · 基座 Qwen3.5-4B · LoRA r=64 · GGUF Q4_K_M（约 2.52 GB/个）· 上下文 16K · Apache-2.0**
@@ -123,7 +123,7 @@ ollama run dawcoder-grpo-v3
 
 - 基座：Qwen3.5-4B（Apache-2.0），本模型权重按 **Apache-2.0** 发布并保留原声明；
 - 训练语料：CC BY-SA 4.0 / 公版 / MIT / CC0（见 [open-music-production-corpus](https://github.com/ShokouP/open-music-production-corpus)）；
-- 任务数据：自建合成数据（CC0），见 [dawcoder-datasets](https://github.com/ShokouP/dawcoder-datasets)；
+- 任务数据：自建合成数据（CC0），见 [dawcoder-datasets](https://github.com/ShokouP/qwen3.5-4B-dawcoder-datasets)；
 - 工程/符号数据：[open-music-engineering-data](https://github.com/ShokouP/open-music-engineering-data)；
 - DAW 自动化/评测工具：[daw-mcp-server](https://github.com/ShokouP/daw-mcp-server)。
 
@@ -134,7 +134,7 @@ ollama run dawcoder-grpo-v3
   title  = {DAWcoder: A 4B Music-Production Parameter Model (Qwen3.5-4B + LoRA, GGUF)},
   author = {ShokouP},
   year   = {2026},
-  url    = {https://github.com/ShokouP/dawcoder},
+  url    = {https://github.com/ShokouP/qwen3.5-4B-dawcoder},
   note   = {4B parameters, Qwen3.5-4B base, LoRA r=64, GGUF Q4_K_M, Ollama-ready}
 }
 ```
