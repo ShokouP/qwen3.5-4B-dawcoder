@@ -18,7 +18,7 @@ library_name: transformers
 pipeline_tag: text-generation
 ---
 
-# DAWcoder 4B — Qwen3.5-4B + LoRA，GGUF Q4_K_M，Ollama 可跑
+# DAWcoder-4B：Qwen3.5-4B 基座 · 4B 参数 · GGUF Q4_K_M · Ollama 开箱即用（preview / sft-v2 / grpo-v3）
 
 [![GitHub stars](https://img.shields.io/github/stars/ShokouP/dawcoder?style=social)](https://github.com/ShokouP/dawcoder)
 [![HF Model](https://img.shields.io/badge/HuggingFace-Shokou1%2Fdawcoder-yellow)](https://huggingface.co/Shokou1/dawcoder)
