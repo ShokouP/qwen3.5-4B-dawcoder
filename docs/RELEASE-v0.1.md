@@ -1,7 +1,7 @@
 # qwen3.5-4B-dawcoder v0.1：把音乐制作意图翻译成 DAW 参数（4B 参数 / Qwen3.5-4B 基座 / GGUF Q4_K_M，三代模型）
 
 [![GitHub stars](https://img.shields.io/github/stars/ShokouP/qwen3.5-4B-dawcoder?style=social)](https://github.com/ShokouP/qwen3.5-4B-dawcoder)
-[![Hugging Face](https://img.shields.io/badge/HF-dawcoder-yellow)](https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder)
+[![Hugging Face](https://img.shields.io/badge/HF-qwen3.5--4B--dawcoder-yellow)](https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder)
 
 如果这个项目对你有用，欢迎给仓库点个 Star，让更多做音乐 AI / Agent 的人找到它。
 
