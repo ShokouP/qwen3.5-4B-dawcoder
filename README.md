@@ -21,7 +21,7 @@ pipeline_tag: text-generation
 # qwen3.5-4B-dawcoder：Qwen3.5-4B 基座 · 4B 参数 · GGUF Q4_K_M · Ollama 开箱即用（preview / sft-v2 / grpo-v3）
 
 [![GitHub stars](https://img.shields.io/github/stars/ShokouP/qwen3.5-4B-dawcoder?style=social)](https://github.com/ShokouP/qwen3.5-4B-dawcoder)
-[![HF Model](https://img.shields.io/badge/HuggingFace-Shokou1%2Fdawcoder-yellow)](https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder)
+[![HF Model](https://img.shields.io/badge/HuggingFace-Shokou1%2Fqwen3.5-4B-dawcoder-yellow)](https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder)
 [![License](https://img.shields.io/badge/license-Apache--2.0-lightgrey)](LICENSE)
 
 **4B 参数 · 基座 Qwen3.5-4B · LoRA r=64 · GGUF Q4_K_M（约 2.52 GB/个）· 上下文 16K · Apache-2.0**
