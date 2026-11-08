@@ -1,5 +1,6 @@
 ﻿__pycache__/
 *.pyc
 *.gguf
+release_assets/
 _tmp/
 .DS_Store
