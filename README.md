@@ -20,8 +20,8 @@ pipeline_tag: text-generation
 
 # DAWcoder（4B）：把音乐制作意图翻译成 DAW 工程参数
 
-[![GitHub stars](https://img.shields.io/github/stars/ShokouP/dawcoder?style=social)](https://github.com/ShokouP/dawcoder)
-[![Model](https://img.shields.io/badge/HF-dawcoder-yellow)](https://huggingface.co/ShokouP/dawcoder)
+[![GitHub stars](https://img.shields.io/github/stars/Shokou1/dawcoder?style=social)](https://github.com/Shokou1/dawcoder)
+[![Model](https://img.shields.io/badge/HF-dawcoder-yellow)](https://huggingface.co/Shokou1/dawcoder)
 [![License](https://img.shields.io/badge/license-Apache--2.0-lightgrey)](LICENSE)
 
 > 如果这个项目对你有用，欢迎点个 Star，让更多做音乐 AI / Agent 的人找到它。
@@ -122,7 +122,7 @@ user 消息是 JSON：
 
 - 基座：Qwen3.5-4B（Apache-2.0），本模型权重按 **Apache-2.0** 发布并保留原声明；
 - 训练语料：CC BY-SA 4.0 / 公版 / MIT / CC0（见 [open-music-production-corpus](https://github.com/ShokouP/open-music-production-corpus)）；
-- 任务数据：自建合成数据（CC0），见 [dawcoder-datasets](https://github.com/ShokouP/dawcoder-datasets)；
+- 任务数据：自建合成数据（CC0），见 [dawcoder-datasets](https://github.com/Shokou1/dawcoder-datasets)；
 - 工程/符号数据：[open-music-engineering-data](https://github.com/ShokouP/open-music-engineering-data)；
 - DAW 自动化/评测工具：[daw-mcp-server](https://github.com/ShokouP/daw-mcp-server)。
 
@@ -133,7 +133,7 @@ user 消息是 JSON：
   title  = {DAWcoder: A 4B Music-Production Parameter Model},
   author = {ShokouP},
   year   = {2026},
-  url    = {https://github.com/ShokouP/dawcoder},
+  url    = {https://github.com/Shokou1/dawcoder},
   note   = {Qwen3.5-4B + LoRA; GGUF Q4_K_M; Ollama-ready}
 }
 ```
